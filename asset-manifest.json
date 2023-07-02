@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AlexandruMoldoveanu95/goit-react-hw-01-components/static/css/main.e0249d85.css",
+    "main.js": "/AlexandruMoldoveanu95/goit-react-hw-01-components/static/js/main.095e333a.js",
+    "index.html": "/AlexandruMoldoveanu95/goit-react-hw-01-components/index.html",
+    "main.e0249d85.css.map": "/AlexandruMoldoveanu95/goit-react-hw-01-components/static/css/main.e0249d85.css.map",
+    "main.095e333a.js.map": "/AlexandruMoldoveanu95/goit-react-hw-01-components/static/js/main.095e333a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0249d85.css",
+    "static/js/main.095e333a.js"
+  ]
+}
