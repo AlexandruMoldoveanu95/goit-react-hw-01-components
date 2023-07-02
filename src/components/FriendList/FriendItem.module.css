@@ -1,0 +1,42 @@
+.green {
+    width: 10px;
+    height: 10px;
+    background-color: green;
+    display: inline-block;
+    border-radius: 5px;
+    margin-right: 7px;
+  }
+  
+  .red {
+    width: 10px;
+    height: 10px;
+    background-color: red;
+    display: inline-block;
+    border-radius: 5px;
+    margin-right: 7px;
+  }
+  
+  .name {
+    font-size: 25px;
+    font-weight: 900px;
+    font-style: italic;
+    color: rgb(0, 0, 0);
+  }
+  
+  .item {
+    text-align: center;
+   display: flex;
+   padding-left: 5px;
+   padding-right: 15px;
+   background-color: aquamarine;
+   
+  }
+  .item:hover{
+    background-color: antiquewhite;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+  }
+  
+  .item:not(:last-child) {
+    margin-right: 10px;
+  }
